@@ -1,0 +1,1 @@
+<!-- Flex layout work on one dimension and grird layout work on two dimension. One dimesion means you can align all the item either row wise or column wise(either horizantally or vertically) but in two dimension you can align all the items in row wise or column wise in single container -->
